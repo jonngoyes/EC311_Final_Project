@@ -1,8 +1,8 @@
-a. Project Name: Full Points Grade Association (FPGA)
+a. Project Name: FPGA Pseudo Terminal 
 
-b. Team Members: Jon Ngo, Sophia Delia, Ian Chadwick, Jack Locke
+b. Team Members: Jon Ngo, Sophia Delia, Ian Chadwick, Jack Locke - Team Name: Full Points Grade Association (FPGA)
 
-c. Link to your Project Demo Video: JACK LOCKE PUT THIS IN
+c. Link to your Project Demo Video: https://drive.google.com/drive/u/1/folders/1Z5vSULijlYG23RdGWeG2i28b-j7xyidU
 
 d. Overview of the Project:The FPGA Pseudo Terminal is intended to replicate every day computer actions. A PuTTY terminal is used to display input, while keyboard commands are interpreted by the FPGA to manipulate RGB LEDs, do calculations via an ALU, trigger a stopwatch, and start a reaction test mini-game. 
 
