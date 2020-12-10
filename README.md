@@ -54,6 +54,6 @@ To subtract:
 To divide:
 ##/##, where hashes represent numbers. Leading zeroes for one digit numbers, "/" must be from main keyboard (next to the right shift key)
 To multiply:
-##x## or ##<asterisk>##, where hashes represent numbers. Leading zeroes for one digit numbers, "<asterisk>" must be from the extended keyboard (right numerical keypad)
+##x## or ##ASTERISK##, where hashes represent numbers. Leading zeroes for one digit numbers, "ASTERISK" must be from the extended keyboard (right numerical keypad)
 
 
