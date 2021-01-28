@@ -5,6 +5,7 @@ b. Team Members: Jon Ngo, Sophia Delia, Ian Chadwick, Jack Locke - Team Name: Fu
 c. Link to your Project Demo Video: 
 https://drive.google.com/drive/u/1/folders/1Z5vSULijlYG23RdGWeG2i28b-j7xyidU
 https://drive.google.com/drive/u/1/folders/0ALV-2H-bFHoDUk9PVA
+Demo: https://drive.google.com/file/d/1zDyW4b2B_FhpBPwlCBVkkrvSv3vXi-wt/view?usp=sharing
 
 d. Overview of the Project:The FPGA Pseudo Terminal is intended to replicate every day computer actions. A PuTTY terminal is used to display input, while keyboard commands are interpreted by the FPGA to manipulate RGB LEDs, do calculations via an ALU, trigger a stopwatch, and start a reaction test mini-game. 
 
